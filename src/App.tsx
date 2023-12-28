@@ -3,7 +3,6 @@ import React from "react";
 import QRCodeReact from "react-qr-code";
 
 interface QRCodeProps {
-  value: string;
   size?: number;
 }
 const App: React.FC<QRCodeProps> = ({ size = 128 }) => {
