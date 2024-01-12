@@ -28,6 +28,21 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: radial-gradient(
+    circle,
+    #a3ac9c,
+    #7da996,
+    #42a4a6,
+    #009ac3,
+    #0089d8,
+    #4783da,
+    #6a7cd8,
+    #8873d2,
+    #9b81cf,
+    #aa90cd,
+    #b7a0cc,
+    #c1b1cb
+  );
 }
 
 h1 {
